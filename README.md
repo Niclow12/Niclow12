@@ -1,5 +1,5 @@
 
-# ReadMe - Nicolas Lowther
+# Nicolas Lowther
 
 ## Bienvenido a mi perfil de GitHub
 
