@@ -28,7 +28,6 @@ A lo largo de mi carrera, he trabajado en una variedad de proyectos interesantes
 
 Si estás interesado en colaborar en proyectos o simplemente quieres charlar sobre desarrollo de software, no dudes en contactarme a través de mi correo electrónico: [nicolaslowther@hotmail.com](nicolaslowther@hotmail.com).
 
-¡Espero que encuentres interesantes mis proyectos en GitHub y que podamos conectar en el mundo del desarrollo!
 
 ---
 
