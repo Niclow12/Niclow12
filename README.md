@@ -1,36 +1,38 @@
-# 🚀 Hola, Soy Nicolás Lowther | Desarrollador Full Stack
+# 🚀 Hola, Soy Nicolás Lowther | Desarrollador Full Stack 
 
-Un desarrollador apasionado por la creación de soluciones tecnológicas robustas. Con experiencia en el stack **.NET (Backend)** y **Angular (Frontend)**, me especializo en construir aplicaciones que no solo funcionan, sino que son eficientes y escalables.
+**Técnico Superior en Desarrollo de Software** con sólida experiencia y dominio de dos grandes ecosistemas: **JavaScript/TypeScript** y **.NET**. Me especializo en la arquitectura y construcción de soluciones *end-to-end* robustas, escalables y con alto rendimiento, incluyendo el desarrollo de **aplicaciones de escritorio con Tauri**.
 
-Soy de Argentina 🇦🇷 y siempre estoy dispuesto a aprender y aplicar nuevas tecnologías.
+Soy de Argentina 🇦🇷 y mi objetivo es siempre entregar código de alta calidad que cumpla con las mejores prácticas de la industria.
 
 ---
 
 ### 🛠 Mi Stack Tecnológico
 
-Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
+Mi versatilidad Full Stack me permite abordar proyectos en todo el ciclo de desarrollo:
 
 | Área | Tecnologías Clave | Enfoque Profesional |
 | :--- | :--- | :--- |
-| **Frontend** | 🅰️ **Angular (Standalones & Signals)**, TypeScript, JavaScript, HTML5/CSS3. | Desarrollo de SPAs de alto rendimiento y experiencia de usuario moderna. |
-| **Backend** | 💻 **.NET (Core / Framework)**, C#, VB.NET. | Construcción de APIs RESTful seguras, servicios backend y lógica de negocio compleja. |
-| **Bases de Datos** | 💾 **SQL Server**, MySQL. | Diseño, optimización y administración de bases de datos relacionales. |
-| **Herramientas** | 🧑‍💻 Git, GitHub, Visual Studio, Patrones de Diseño. | Código limpio, modular y gestión eficiente de versiones. |
+| **Frontend Web** | 🅰️ **Angular** (Signals, Standalone), **React**, **Next.js**. | Desarrollo de SPAs y aplicaciones SSR de vanguardia. |
+| **Mobile & Desktop** | ⚛️ **React Native**, 🖥️ **Tauri**. | Creación de aplicaciones móviles y de **escritorio nativas y ligeras** aprovechando el frontend web. |
+| **Backend CORE** | 🟢 **Node.js** (Express/Frameworks), 💻 **.NET (Core / Framework)**, C#, VB.NET. | Diseño de APIs RESTful y servicios de fondo robustos y seguros. |
+| **Bases de Datos** | 💾 **Relacionales** (SQL Server, MySQL) y **No Relacionales**. | Modelado de datos, optimización de consultas y administración. |
+| **DevOps** | 🐳 **Docker**. | Contenerización de aplicaciones para simplificar el despliegue y la consistencia de entornos. |
+| **Lenguajes** | TypeScript, JavaScript, C#, VB.NET, **Rust** (indirecto por Tauri). | Foco en la arquitectura y el código fuertemente tipado. |
 
 ---
 
 ### 🌟 Proyectos Destacados
 
-Estos repositorios muestran mi dominio en distintos aspectos del desarrollo Full Stack. ¡Siéntete libre de explorarlos!
+Te invito a explorar mis repositorios fijados, que demuestran mi capacidad para manejar diferentes tecnologías. **Recuerda fijar estos repositorios en tu perfil.**
+
+➡️ **[Management System - .NET]** - *Backend y Lógica de Negocio*
+> Proyecto de Sistema de Gestión de Inventarios construido con **.NET/C#** y **SQL Server**. Muestra mi experiencia en el desarrollo de sistemas empresariales y la gestión de bases de datos.
 
 ➡️ **[Angular Gifs Viewer]** - *Frontend Moderno*
-> Una aplicación de búsqueda de GIFs que utiliza **Angular Standalone Components** y **Signals** para un manejo de estado reactivo y de alto rendimiento.
+> Aplicación de búsqueda de GIFs que usa **Angular Standalone Components** y **Signals** para un manejo de estado reactivo y eficiente.
 
-➡️ **[Management System]** - *Backend y DB*
-> Demostración de un **Sistema de Gestión de Inventarios**. Desarrollado para el seguimiento de productos y optimización de procesos empresariales.
-
-➡️ **[Otro Proyecto Relevante]** - *Versatilidad*
-> [Añade un proyecto que muestre tu habilidad con C#, .NET o algo diferente, como tu e-commerce o una prueba con Godot.]
+➡️ **[App de Escritorio con Tauri / Proyecto de React Native/Next]** - *Versatilidad y Desktop*
+> [Añade el repositorio de tu proyecto más relevante con **Tauri** o el que muestre tu dominio en **React/Next.js o React Native** aquí.]
 
 ---
 
@@ -45,8 +47,8 @@ Mi compromiso con el código:
 
 ### 📬 Conectemos
 
-Siempre abierto a nuevas oportunidades de aprendizaje, colaboración o desafíos laborales.
+Siempre estoy buscando oportunidades para enfrentar nuevos desafíos técnicos o colaborar en proyectos innovadores.
 
-* **LinkedIn:** [Tu Enlace a LinkedIn]
-* **Correo Electrónico:** [Tu correo electrónico]
-* **Twitter/X:** [@niclow12](https://twitter.com/niclow12)
+* **LinkedIn:** [Niclow12](https://www.linkedin.com/in/niclow12/)
+* **Correo Electrónico:** [lowthernicolas@gmail.com](lowthernicolas@gmail.com)
+* **Twitter/X:** [@niclow12](https://x.com/niclow28)
