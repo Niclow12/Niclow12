@@ -23,16 +23,14 @@ Mi versatilidad Full Stack me permite abordar proyectos en todo el ciclo de desa
 
 ### 🌟 Proyectos Destacados
 
-Te invito a explorar mis repositorios fijados, que demuestran mi capacidad para manejar diferentes tecnologías. **Recuerda fijar estos repositorios en tu perfil.**
+Te invito a explorar mis repositorios fijados, que demuestran mi capacidad para manejar diferentes tecnologías. 
 
 ➡️ **[Management System - .NET]** - *Backend y Lógica de Negocio*
-> Proyecto de Sistema de Gestión de Inventarios construido con **.NET/C#** y **SQL Server**. Muestra mi experiencia en el desarrollo de sistemas empresariales y la gestión de bases de datos.
+> Proyecto de Sistema de Gestión de Inventarios construido con **.NET/C#** y **SQL Server**. 
 
-➡️ **[Angular Gifs Viewer]** - *Frontend Moderno*
+➡️ **[Angular Gifs Viewer](https://aplicacionde-gifs.netlify.app/#/dashboard/trending)** - *Frontend Moderno*
 > Aplicación de búsqueda de GIFs que usa **Angular Standalone Components** y **Signals** para un manejo de estado reactivo y eficiente.
 
-➡️ **[App de Escritorio con Tauri / Proyecto de React Native/Next]** - *Versatilidad y Desktop*
-> [Añade el repositorio de tu proyecto más relevante con **Tauri** o el que muestre tu dominio en **React/Next.js o React Native** aquí.]
 
 ---
 
@@ -50,5 +48,5 @@ Mi compromiso con el código:
 Siempre estoy buscando oportunidades para enfrentar nuevos desafíos técnicos o colaborar en proyectos innovadores.
 
 * **LinkedIn:** [Niclow12](https://www.linkedin.com/in/niclow12/)
-* **Correo Electrónico:** [lowthernicolas@gmail.com](lowthernicolas@gmail.com)
+* **Correo Electrónico:** **[lowthernicolas@gmail.com](mailto:lowthernicolas@gmail.com)** 
 * **Twitter/X:** [@niclow12](https://x.com/niclow28)
