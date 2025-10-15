@@ -1,90 +1,52 @@
-# 🔍 Giphy Viewer | Búsqueda y Gestión de GIFs con Angular Signals
+# 🚀 Hola, Soy Nicolás Lowther | Desarrollador Full Stack
 
-Este proyecto es una aplicación web de búsqueda de GIFs que utiliza la API pública de Giphy. Su principal enfoque es demostrar un manejo de estado moderno y eficiente utilizando las **Angular Signals (Señales)**, Standalone Components y una arquitectura limpia basada en RxJS y servicios.
+Un desarrollador apasionado por la creación de soluciones tecnológicas robustas. Con experiencia en el stack **.NET (Backend)** y **Angular (Frontend)**, me especializo en construir aplicaciones que no solo funcionan, sino que son eficientes y escalables.
 
-## 🚀 Demo en Vivo
-
-Puedes probar la aplicación directamente en el siguiente enlace:
-
-🔗 **[VER DEMO EN NETLIFY]** - [https://aplicacionde-gifs.netlify.app/](https://aplicacionde-gifs.netlify.app/)
-
-## ✨ Características Principales
-
-| Icono | Característica | Descripción Técnica |
-| :---: | :--- | :--- |
-| ⚡ | **Manejo de Estado Reactivo** | Uso de **Angular Signals** para la gestión del estado de la aplicación (Trending Gifs, Historial de Búsqueda y Resultados), garantizando alto rendimiento. |
-| 📂 | **Componentes Standalone** | El proyecto está construido íntegramente con la arquitectura moderna de **Standalone Components**, eliminando la necesidad de `NgModules`. |
-| 🔍 | **Búsqueda Avanzada** | Implementación de búsquedas por texto con **debounce** a través de RxJS para optimizar las peticiones a la API. |
-| 📚 | **Historial Persistente** | Almacenamiento y visualización del historial de búsquedas del usuario. |
-| 🔌 | **Consumo de API** | Uso de `HttpClient` de Angular para interactuar con la **Giphy API** y mapear las respuestas de manera segura con TypeScript. |
-
-## 🛠 Tecnologías y Herramientas
-
-Las siguientes tecnologías clave fueron utilizadas en la construcción de este proyecto:
-
-| Tecnología | Badge | Enfoque |
-| :--- | :--- | :--- |
-| **Angular** | ![](https://img.shields.io/badge/Angular-17%2B-red?style=flat-square&logo=angular) | Base del Framework con Standalone Components. |
-| **TypeScript** | ![](https://img.shields.io/badge/TypeScript-4.9%2B-blue?style=flat-square&logo=typescript) | Tipado estricto para un código más robusto y escalable. |
-| **RxJS** | ![](https://img.shields.io/badge/RxJS-7.0%2B-purple?style=flat-square&logo=rxjs) | Gestión avanzada de la asincronía y operadores como `tap`, `map` y `debounceTime`. |
-| **HTML/CSS** | ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Estructura y diseño limpios y responsivos. |
-| **Giphy API** | ![](https://img.shields.io/badge/Giphy-API-5C17FF?style=flat-square&logo=giphy&logoColor=white) | Fuente de datos para los GIFs. |
-
-## 📸 Demostración Visual
-
-Aquí puedes ver el funcionamiento de la aplicación:
-
-\[ **Inserta una Captura de Pantalla o un GIF del funcionamiento aquí** ]
-
-*(Tip: Un GIF animado es ideal para mostrar la interacción de la búsqueda y el historial)*
-
-## ⚙️ Instalación y Configuración Local
-
-Para ejecutar este proyecto en tu entorno de desarrollo local, sigue estos pasos:
-
-### Prerrequisitos
-
-* Tener instalado **Node.js** y el **Angular CLI**.
-* Una **API Key** válida de Giphy (puedes obtenerla gratis en su sitio web).
-
-### Pasos
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone [TU URL DE GITHUB]
-    cd [NOMBRE-DE-TU-REPOSITORIO]
-    ```
-
-2.  **Configurar la API Key:**
-    * Crea un archivo llamado `environment.ts` (si no existe) o modifica el existente en la carpeta `src/environments/`.
-    * Asegúrate de que la API Key de Giphy esté configurada:
-        ```typescript
-        // src/environments/environment.ts
-        export const environment = {
-          production: false,
-          giphyApiKey: '[TU_API_KEY_DE_GIPHY]', // <-- Reemplaza con tu clave
-          giphyUrl: '[https://api.giphy.com/v1](https://api.giphy.com/v1)'
-        };
-        ```
-
-3.  **Instalar dependencias:**
-    ```bash
-    npm install
-    ```
-
-4.  **Ejecutar la aplicación:**
-    ```bash
-    ng serve -o
-    ```
-    La aplicación estará disponible en `http://localhost:4200/`.
+Soy de Argentina 🇦🇷 y siempre estoy dispuesto a aprender y aplicar nuevas tecnologías.
 
 ---
 
-## 👨‍💻 Autor
+### 🛠 Mi Stack Tecnológico
 
-**Nicolás Lowther**
+Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 
-* **GitHub:** [\@Niclow12](https://github.com/Niclow12)
+| Área | Tecnologías Clave | Enfoque Profesional |
+| :--- | :--- | :--- |
+| **Frontend** | 🅰️ **Angular (Standalones & Signals)**, TypeScript, JavaScript, HTML5/CSS3. | Desarrollo de SPAs de alto rendimiento y experiencia de usuario moderna. |
+| **Backend** | 💻 **.NET (Core / Framework)**, C#, VB.NET. | Construcción de APIs RESTful seguras, servicios backend y lógica de negocio compleja. |
+| **Bases de Datos** | 💾 **SQL Server**, MySQL. | Diseño, optimización y administración de bases de datos relacionales. |
+| **Herramientas** | 🧑‍💻 Git, GitHub, Visual Studio, Patrones de Diseño. | Código limpio, modular y gestión eficiente de versiones. |
+
+---
+
+### 🌟 Proyectos Destacados
+
+Estos repositorios muestran mi dominio en distintos aspectos del desarrollo Full Stack. ¡Siéntete libre de explorarlos!
+
+➡️ **[Angular Gifs Viewer]** - *Frontend Moderno*
+> Una aplicación de búsqueda de GIFs que utiliza **Angular Standalone Components** y **Signals** para un manejo de estado reactivo y de alto rendimiento.
+
+➡️ **[Management System]** - *Backend y DB*
+> Demostración de un **Sistema de Gestión de Inventarios**. Desarrollado para el seguimiento de productos y optimización de procesos empresariales.
+
+➡️ **[Otro Proyecto Relevante]** - *Versatilidad*
+> [Añade un proyecto que muestre tu habilidad con C#, .NET o algo diferente, como tu e-commerce o una prueba con Godot.]
+
+---
+
+### 📈 Mi Actividad en GitHub
+
+Mi compromiso con el código:
+
+[![Estadísticas de GitHub de Nicolás](https://github-readme-stats.vercel.app/api?username=Niclow12&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Niclow12)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Niclow12&layout=compact&theme=dark&hide=html)](https://github.com/Niclow12)
+
+---
+
+### 📬 Conectemos
+
+Siempre abierto a nuevas oportunidades de aprendizaje, colaboración o desafíos laborales.
+
 * **LinkedIn:** [Tu Enlace a LinkedIn]
-
-Este proyecto está bajo la Licencia MIT.
+* **Correo Electrónico:** [Tu correo electrónico]
+* **Twitter/X:** [@niclow12](https://twitter.com/niclow12)
