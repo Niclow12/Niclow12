@@ -39,9 +39,9 @@ Te invito a explorar mis repositorios fijados, que demuestran mi capacidad para 
 Mi compromiso con el código:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niclow12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Nicolás" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclow12&layout=compact&theme=tokyonight&hide=html" alt="Lenguajes Más Usados" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niclow12&theme=tokyonight" alt="Streak Stats" />
 </p>
+
 ---
 
 ### 📬 Conectemos
