@@ -38,8 +38,14 @@ Te invito a explorar mis repositorios fijados, que demuestran mi capacidad para 
 
 Mi compromiso con el código:
 
-[![Estadísticas de GitHub de Nicolás](https://github-readme-stats.vercel.app/api?username=Niclow12&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Niclow12)
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Niclow12&layout=compact&theme=dark&hide=html)](https://github.com/Niclow12)
+<p align="left">
+  <a href="https://github.com/Niclow12">
+    <img src="https://github-readme-stats.vercel.app/api?username=Niclow12&show_icons=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&bg_color=0d1117&border_color=00d1ff&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Nicolás" height="180px">
+  </a>
+  <a href="https://github.com/Niclow12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclow12&layout=compact&title_color=00d1ff&text_color=ffffff&bg_color=0d1117&border_color=00d1ff&hide=html" alt="Lenguajes Más Usados" height="180px">
+  </a>
+</p>
 
 ---
 
