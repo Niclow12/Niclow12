@@ -34,16 +34,6 @@ Te invito a explorar mis repositorios fijados, que demuestran mi capacidad para 
 
 ---
 
-### 📈 Mi Actividad en GitHub
-
-Mi compromiso con el código:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niclow12&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
-
 ### 📬 Conectemos
 
 Siempre estoy buscando oportunidades para enfrentar nuevos desafíos técnicos o colaborar en proyectos innovadores.
